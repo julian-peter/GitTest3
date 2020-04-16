@@ -1,8 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
@@ -13,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.ReadKey();
             //-- updated directly on the server GitHub 
+            //-- code added from VS
         }
     }
 }
